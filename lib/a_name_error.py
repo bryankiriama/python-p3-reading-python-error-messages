@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
 
-print(hello_world)
+hello_world = "you are amaizin"
+
+print("hello_world")
